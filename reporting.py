@@ -33,4 +33,4 @@ def get_report(top_words, limit, destination: str = "stdout"):
                 writer.writerows(top_words)
 
 
-# TODO: сортировать репорты по директориям с датой
+
